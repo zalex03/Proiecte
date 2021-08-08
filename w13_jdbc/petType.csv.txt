@@ -1,0 +1,6 @@
+1 Caine
+2 Pisic
+3 Hamster
+4 Peste
+5 Dragon
+6 Iepure
